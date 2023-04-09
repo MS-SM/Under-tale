@@ -164,9 +164,7 @@
              size (350, 120);
              Napstablook = loadImage("images/Napstablook.png");
              dialogo = loadImage("images/viñeta.png");
-             corazon = loadImage("images/favicon.png");
              imageMode (CENTER);
-             cursor(corazon, 32, 32);
            }
 
            void draw () {
@@ -178,6 +176,8 @@
                cursor(HAND);
              } else {
                image(Napstablook, 45, 60, Napstablook.width, Napstablook.height);
+               corazon = loadImage("images/favicon.png");
+               cursor(corazon, 32, 32);
                }
            }
          </script>
