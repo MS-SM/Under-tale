@@ -3,8 +3,11 @@
 	src:local('../Determination Sans Web'),url('../fonts/DeterminationSansWeb.eot') format("eot"),url('../fonts/DeterminationSansWeb.woff') format("woff"),url('../fonts/DeterminationSansWeb.otf') format("opentype");
 }
 
+html {
+    background-color: black;
+}
+
 body {
-	background-color: black;
 	background-image:
     url(http://fullhdpictures.com/wp-content/uploads/2015/12/Undertale-Wallpapers-HD.png);
   font-family: "Comic Sans MS", sans-serif;
