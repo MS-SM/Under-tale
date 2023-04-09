@@ -5,6 +5,7 @@
 
 html {
     background-color: black;
+	cursor: url('data:image/x-icon;base64,AAACAAEAICACAAAAAAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAA/AAAAf4AAAP/AAAH/4AAD//AAB//4AA///AAP//wAD//8AA///AAP//wAD//8AA///AAP//wAB/P4AAPh8AABgGAAAAAAAA//////////////////////////////////////////////////////////////////////4f///8D///+Af///AD///gAf//wAD//4AAf/8AAD//AAA//wAAP/8AAD//AAA//wAAP/8AAD//AAA//4DAf//B4P//5/n///////8='), auto;
 }
 
 body {
@@ -14,7 +15,6 @@ body {
   font-weight: bold;
   color: white;
 	font-size:100%;
-	cursor: url('data:image/x-icon;base64,AAACAAEAICACAAAAAAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAA/AAAAf4AAAP/AAAH/4AAD//AAB//4AA///AAP//wAD//8AA///AAP//wAD//8AA///AAP//wAB/P4AAPh8AABgGAAAAAAAA//////////////////////////////////////////////////////////////////////4f///8D///+Af///AD///gAf//wAD//4AAf/8AAD//AAA//wAAP/8AAD//AAA//wAAP/8AAD//AAA//4DAf//B4P//5/n///////8='), auto;
 }
 
 
