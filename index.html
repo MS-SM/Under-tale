@@ -158,11 +158,13 @@
            <script type="text/processing">
            PImage Napstablook;
            PImage dialogo;
+           PImage corazon;
 
            void setup () {
              size (350, 120);
              Napstablook = loadImage("images/Napstablook.png");
              dialogo = loadImage("images/viñeta.png");
+             corazon = loadImage("images/favicon.png");
              imageMode (CENTER);
            }
 
@@ -175,7 +177,7 @@
                cursor(HAND);
              } else {
                image(Napstablook, 45, 60, Napstablook.width, Napstablook.height);
-               noCursor();
+               cursor(corazon);
                }
            }
          </script>
