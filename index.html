@@ -162,10 +162,12 @@
 
            void setup () {
              size (350, 120);
+             imageMode (CENTER);
              Napstablook = loadImage("images/Napstablook.png");
              dialogo = loadImage("images/viñeta.png");
-             corazon = loadImage("images/cursor.png");
-             imageMode (CENTER);
+                        
+             imageMode(CORNER);
+             corazon = loadImage("images/cursor.png");  
            }
 
            void draw () {
